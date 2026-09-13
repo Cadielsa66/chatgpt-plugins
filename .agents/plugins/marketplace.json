@@ -1,0 +1,20 @@
+{
+  "name": "cadielsa",
+  "interface": {
+    "displayName": "Cadielsa"
+  },
+  "plugins": [
+    {
+      "name": "cadielsa-ai-commerce",
+      "source": {
+        "source": "local",
+        "path": "./plugins/cadielsa-ai-commerce"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

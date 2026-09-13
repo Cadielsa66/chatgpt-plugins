@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "cadielsa-ai-commerce",
+  "version": "1.0.0",
+  "description": "Catálogo, existencias, precios de tu ficha y documentos de tu cuenta en Cadielsa. Solo clientes autorizados.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Cadielsa AI Commerce",
+        "shortDescription": "Tu cuenta de Cadielsa dentro de ChatGPT",
+        "longDescription": "Busca material en el catálogo de Cadielsa, consulta existencias por almacén, tus precios según tu ficha de cliente, tus albaranes, pedidos, facturas y ofertas, y guarda solicitudes de presupuesto. Solo para clientes con acceso autorizado por Cadielsa: se inicia sesión con el correo y la contraseña facilitados por Cadielsa.",
+        "developerName": "Cadielsa Suministros Eléctricos",
+        "category": "Productivity",
+        "capabilities": ["Read", "Write"],
+        "brandColor": "#6C3A8F"
+      }
+    }
+  }
+}
