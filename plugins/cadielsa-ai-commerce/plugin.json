@@ -12,7 +12,9 @@
         "developerName": "Cadielsa Suministros Eléctricos",
         "category": "Productivity",
         "capabilities": ["Read", "Write"],
-        "brandColor": "#6C3A8F"
+        "brandColor": "#6C3A8F",
+        "logo": "./assets/logo.png",
+        "composerIcon": "./assets/icon.png"
       }
     }
   }
