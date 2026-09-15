@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "cadielsa-ai-commerce",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Catálogo, existencias, precios de tu ficha y documentos de tu cuenta en Cadielsa. Solo clientes autorizados.",
   "extensions": {
     "com.openai": {
