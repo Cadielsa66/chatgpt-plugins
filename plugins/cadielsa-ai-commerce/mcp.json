@@ -1,9 +1,0 @@
-{
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
-  "mcpServers": {
-    "cadielsa-ai-commerce": {
-      "type": "streamable-http",
-      "url": "https://cadielsa-ai-commerce-966116842150.europe-southwest1.run.app/mcp"
-    }
-  }
-}
