@@ -14,7 +14,8 @@
         "installation": "AVAILABLE",
         "authentication": "ON_INSTALL"
       },
-      "category": "Productivity"
+      "category": "Productivity",
+      "pluginId": "Plugin_2fb442bad44081918ab3d738e997f69f"
     }
   ]
 }
