@@ -11,11 +11,15 @@
         "longDescription": "Busca material en el catálogo de Cadielsa, consulta existencias por almacén, tus precios según tu ficha de cliente, tus albaranes, pedidos, facturas y ofertas, y guarda solicitudes de presupuesto. Solo para clientes con acceso autorizado por Cadielsa: se inicia sesión con el correo y la contraseña facilitados por Cadielsa.",
         "developerName": "Cadielsa Suministros Eléctricos",
         "category": "Productivity",
-        "capabilities": ["Read", "Write"],
+        "capabilities": [
+          "Read",
+          "Write"
+        ],
         "brandColor": "#6C3A8F",
         "logo": "./assets/logo.png",
         "composerIcon": "./assets/icon.png"
-      }
+      },
+      "apps": "./.app.json"
     }
   }
 }
