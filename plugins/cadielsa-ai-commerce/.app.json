@@ -1,8 +1,8 @@
 {
   "apps": {
     "cadielsa-ai-commerce": {
-      "id": "plugin_asdk_app_6aa5a6c4696081919a1af2bd77706451",
-      "required": true
+      "id": "asdk_app_6aa5a6c4696081919a1af2bd77706451",
+      "required": false
     }
   }
 }
